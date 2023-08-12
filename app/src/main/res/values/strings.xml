@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name"><font color='#000000'>NOTE</font> </string>
+    <string name="label">Tiêu đề</string>
+    <string name="content">Nội dung</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="back">Quay lại</string>
+    <string name="more">Thêm</string>
+    <string name="info">Thông tin ứng dụng</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="ok">Đã hiểu</string>
+    <string name="info_app">Phiên bản: <font color='#FF0000'>1.0.0</font>\nNhà phát triển: Hoàng Long</string>
+    <string name="tip">Thêm 1 ghi chú mới</string>
+    <string name="message_removed">Ghi chú đã được xóa</string>
+</resources>
